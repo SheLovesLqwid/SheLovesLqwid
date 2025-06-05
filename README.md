@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheloveslqwid" alt="sheloveslqwid" /></a> </p>
 
-- 🔭 I’m currently working on [OG Anti Cheat for FiveM](https://github.com/SheLovesLqwid/OG-ANTICHEAT)
+- 🔭 I’m currently working on [Icarus Anti Cheat for FiveM](https://github.com/SheLovesLqwid/icarus)
 
 - 🌱 I’m currently learning **Computer Hacking Forensic Investigator**
 
