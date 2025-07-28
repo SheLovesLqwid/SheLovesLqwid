@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheloveslqwid" alt="sheloveslqwid" /></a> </p>
 
-- 🔭 I’m currently working on [Icarus Anti Cheat for FiveM](https://github.com/SheLovesLqwid/icarus)
+- 🔭 I’m currently working on [LumaOS x86 Kernel Project](https://github.com/SheLovesLqwid/LumaOS-x86-Educational-Kernel-Project)
 
-- 🌱 I’m currently learning **Computer Hacking Forensic Investigator**
+- 🌱 I’m currently learning **Computer Hacking Forensic Investigator Certification Course**
 
-- 👯 I’m looking to collaborate on [LPEAssessor](https://github.com/SheLovesLqwid/LPEAssessor)
+- 👯 I’m looking to collaborate on [LumaOS x86 Kernel Project](https://github.com/SheLovesLqwid/LumaOS-x86-Educational-Kernel-Project)
 
 - 🤝 I’m looking for help with [MultiTool---Advanced-OSINT-Cybersecurity-Toolkit](https://github.com/SheLovesLqwid/MultiTool---Advanced-OSINT-Cybersecurity-Toolkit)
 
 - 💬 Ask me about **Anything at all!!**
 
-- 📫 How to reach me **Via Discord @theogdev0752**
+- 📫 How to reach me **Via Discord @theogdev0752 MORE WAYS TO REACH COMING SOON!!!!**
 
-- ⚡ Fun fact **I think im funny**
+- ⚡ Fun fact **Suck ya mum mate -some british kid on the iternet**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
