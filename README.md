@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Anything at all!!**
 
-- 📫 How to reach me **Via Discord @theogdev0752 MORE WAYS TO REACH COMING SOON!!!!**
+- 📫 How to reach me **Via Discord @theogdev0752 or via my guns lol link here: https://guns.lol/ogdevstudios MORE WAYS TO REACH COMING SOON!!!!**
 
 - ⚡ Fun fact **Suck ya mum mate -some british kid on the iternet**
 
