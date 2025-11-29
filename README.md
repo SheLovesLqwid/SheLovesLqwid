@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Josh (aka TheOGDev)</h1>
+<h1 align="center">👋 Hey, I'm TheOGDev</h1>
 <h3 align="center">Network Defender | Ethical Hacker | Full Stack Web Developer | Founder of OGDev Studios</h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 I’m **Josh**, also known online as **TheOGDev** — a **Network Defender, Ethical Hacker, and Full Stack Developer** from the US.  
 
 I’m the **Founder of OGDev Studios** — a cybersecurity company with two missions:  
-- Provide **100% free, high-quality InfoSec courses & training for Red Teaming, Blue Teaming, and Cybersecurity certifications**.  
+- Provide **100% free, high quality InfoSec courses & training for Red Teaming, Blue Teaming, and Cybersecurity certifications**.  
 - Deliver **contract work for businesses**, including secure web development, penetration testing, and cybersecurity consulting.  
 
 ---
@@ -27,7 +27,7 @@ I’m the **Founder of OGDev Studios** — a cybersecurity company with two miss
 ## 🎯 Goals & Learning
 - 🌱 Currently studying for **Computer Hacking Forensic Investigator (CHFI)** certification.  
 - 🏴‍☠️ Building a **free cybersecurity education hub** under OGDev Studios.  
-- 💡 Looking to collaborate on **OS, kernel, and security-focused projects**.  
+- 💡 Looking to collaborate on **OS, kernel, and security focused projects**.  
 
 ---
 
@@ -56,7 +56,7 @@ I’m the **Founder of OGDev Studios** — a cybersecurity company with two miss
 
 💡 Core Strengths:
 - **Red & Blue Teaming:** OSINT, Recon, Exploit Development, Threat Mitigation.  
-- **Web Security:** Defending against XSS, SQLi, RCE, and real-world attacks.  
+- **Web Security:** Defending against XSS, SQLi, RCE, and real world attacks.  
 - **Defensive Operations:** SIEM, IDS/IPS, log analysis, and incident response.  
 - **Offensive Security:** Adversarial simulations, exploit chaining, and ethical hacking.  
 
@@ -76,17 +76,11 @@ I’m the **Founder of OGDev Studios** — a cybersecurity company with two miss
 
 ## 📌 Featured Projects
 - 🔒 **Cybersecurity:** OSINT Toolkit, Threat Intelligence Automation, Red Team Utilities.  
-- 🌐 **Web Dev:** Full-stack apps with **React, Node, SQL/Mongo, Tailwind, Docker**.  
-- 🕹️ **Experimental:** Kernel projects, PC tools, and game-related dev work.  
+- 🌐 **Web Dev:** Full stack apps with **React, Node, SQL/Mongo, Tailwind, Docker**.  
+- 🕹️ **Experimental:** Kernel projects, PC tools, and game related dev work.  
 
----
-
-## ⚡ Fun Facts
-- Real name: **Josh**.  
-- Known online as **TheOGDev**.  
+---  
 - I’m either **coding, securing, or ethically breaking something**.  
-- Motto: *"Learn, build, defend, break, repeat."*  
-
 ---
 
 <p align="center">
