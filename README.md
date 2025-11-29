@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Josh (aka TheOGDev)</h1>
-<h3 align="center">Network Defender | Ethical Hacker | Full Stack Web Developer | Founder of OGDev Studios</h3>
+<h3 align="center">Network Defender | Ethical Hacker | Full Stack Web Developer | Co Founder of OGDev Studios</h3>
 
 <p align="center">
   <a href="https://guns.lol/ogdevstudios"><img src="https://komarev.com/ghpvc/?username=sheloveslqwid&label=Profile%20Views&color=6f42c1&style=flat" alt="Profile Views" /></a>
